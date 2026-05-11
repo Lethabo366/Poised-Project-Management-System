@@ -155,9 +155,4 @@ This project was built to strengthen understanding of:
 
 ---
 
-## 👨‍💻 Author
 
-**Lethabo Kaphioa**
-Aspiring Full-Stack Developer with a Software Engineering Focus
-
----

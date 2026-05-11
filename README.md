@@ -72,7 +72,7 @@ Including:
 ## 🛠️ Tech Stack
 
 * **Language:** Java
-* **IDE:** IntelliJ IDEA / Eclipse
+* **IDE:** Eclipse
 * **Concepts:** OOP, File Handling, Data Management
 
 ---

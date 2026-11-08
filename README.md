@@ -4,6 +4,9 @@ A Java-based project management system developed for a structural engineering co
 The application helps manage construction projects, track project details, monitor deadlines, and maintain customer, contractor, and architect information.
 
 ---
+# Poised Project Management System V2
+
+I rebuilt this project using Spring Boot the link to it is [here](https://github.com/Lethabo366/POISE-PMS-v2_Backend)
 
 # 📚 Table of Contents
 
